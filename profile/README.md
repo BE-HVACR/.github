@@ -7,6 +7,10 @@ Dr. Zheng O’Neill and her research group are doing something about that by exp
 
 More information about the research group can be found at [here](https://hvac.engr.tamu.edu).
 
-## New Member
+## For New Members
 This group is a highly collabrative environment, which requires efficient cooperation among memebers especially those who are working on the same research project.
 Here we briefly introduce our workflow for collobration and some guidelines for efficient project management and software development.
+
+- We use github to maintain and share our codes. For open-source project, the code can be set to `public`, otherwise set to `private`.
+  - [What is Git and GitHub?](https://www.freecodecamp.org/news/git-and-github-for-beginners/)
+  - [Good Git repository management behavior](https://gitential.com/git-best-practices-gitentials-top-ten/)
